@@ -17,6 +17,12 @@ body {
   font-size: 1em;
 }
 
+.buch-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px; 
+}
+
 .computer-img {
   width: 25%;
   float: left;
