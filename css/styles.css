@@ -17,16 +17,22 @@ body {
   font-size: 1em;
 }
 
+.my-img {
+
+  border-radius: 50%;
+}
+
 .buch-img {
   width: 25%;
   float: right;
-  margin-left: 30px; 
+  margin-left: 30px;
 }
 
 .computer-img {
   width: 25%;
   float: left;
   margin-right: 30px;
+  border-radius: 50%;
 }
 
 .copyright {
