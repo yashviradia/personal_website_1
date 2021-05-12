@@ -1,7 +1,7 @@
 a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
+
   text-decoration: none;
 }
 
@@ -20,6 +20,7 @@ body {
 .my-img {
 
   border-radius: 50%;
+
 }
 
 .buch-img {
@@ -95,6 +96,57 @@ hr {
   margin: auto;
 }
 
+.logo-name:hover {
+  color: #30e3cb;
+}
+
+/* navbar */
+.navbar {
+  padding: 0 0 4.5rem;
+  background-color: #e3fdfd;
+  text-align: left;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+/* projects */
+.project-link:hover {
+  color: #30e3cb;
+}
+
+.project-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.tindog-img, .dice-img, .drum-kit-img, .simon-game-img, .newsletter-icon {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+
+
+
+/* container */
+
+
 .top-container {
   background-color: #e3fdfd;
   position: relative;
@@ -131,6 +183,12 @@ p {
   position: absolute;
   right: 300px;
   top: 40px;
+}
+
+/* footer */
+
+.footer-link {
+  margin: 10px 20px;
 }
 
 .btn {
