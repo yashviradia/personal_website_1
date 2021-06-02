@@ -135,7 +135,7 @@ hr {
   line-height: 2;
 }
 
-.tindog-img, .dice-img, .drum-kit-img, .simon-game-img, .newsletter-icon {
+.tindog-img, .dice-img, .drum-kit-img, .simon-game-img, .newsletter-icon, .to-do-list-img {
   width: 25%;
   float: left;
   margin-right: 30px;
