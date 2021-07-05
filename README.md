@@ -43,7 +43,7 @@ I'll be developing this website further using React Library and make the code mo
 
 ## Author
 
-- Website - Yash Viradia (https://yashviradia.github.io/personal_website_1/)
+- Website - [Yash Viradia] (https://yashviradia.github.io/personal_website_1/)
 - Twitter - [@yourusername](https://twitter.com/theyashviradia)
 
 ## Acknowledgments
